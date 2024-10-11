@@ -1,0 +1,20 @@
+{
+  "name": "indianpostnavigator",
+  "version": "1.0.0",
+  "description": "## Project Overview The *Indian Post Navigator* project is developed for *Smart India Hackathon 2024* under Problem Statement ID – 1759. The goal is to create a dynamic mail transmission solution that uses real-time data analytics to select the best mode of transportation for Indian postal services, ensuring timely delivery and operational efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "harsh Raithatha",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
